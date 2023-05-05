@@ -2,7 +2,7 @@
 
 > 项目地址: https://github.com/ysjh0014/openai-wx-chat.git
 > 
-> 本项目会持续迭代，下载二进制包时请去 [releases](https://github.com/riba2534/openai-on-wechat/releases) 中找最新的 `openai-on-wechat.zip` 下载
+> 本项目会持续迭代，下载二进制包时请去 [releases](https://github.com/ysjh0014/openai-wx-chat/releases) 中找最新的 `openai-on-wechat.zip` 下载
 
 # 简介
 
@@ -41,7 +41,7 @@
 
 ## 二、 配置
 
-1. 首先需要在本项目的 [Releases](https://github.com/riba2534/openai-on-wechat/releases) 中找到最新的二进制文件版本并下载，目前最新的地址是： [openai-on-wechat.zip](https://github.com/riba2534/openai-on-wechat/releases/download/V1.1/openai-on-wechat.zip)
+1. 首先需要在本项目的 [Releases](https://github.com/ysjh0014/openai-wx-chat/releases) 中找到最新的二进制文件版本并下载，目前最新的地址是： [openai-on-wechat.zip](https://github.com/ysjh0014/openai-wx-chat/releases/download/V1.7.1/openai-on-wechat.zip)
 2. 把 `openai-on-wechat.zip` 文件传输至你的云服务器的任意目录下
 3. 使用 `unzip openai-on-wechat.zip` 把压缩包解压到当前目录下
 
