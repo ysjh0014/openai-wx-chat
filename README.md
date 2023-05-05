@@ -131,4 +131,4 @@ nohup ./openai-on-wechat &
 
 建了`QQ群`和`微信群`，大家可以进群交流:
 
-| ![qq群](docs/qq群.jpg) | ![微信群](docs/微信群.jpg)
+| ![qq群](https://my-chat-ys.oss-cn-beijing.aliyuncs.com/%E5%9B%BE%E7%89%874.jpg) | ![微信群](https://my-chat-ys.oss-cn-beijing.aliyuncs.com/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20230505133509.jpg)
