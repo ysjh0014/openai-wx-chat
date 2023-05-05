@@ -60,12 +60,12 @@
         "text_config": {
             "openapi_url": "https://api.openai.com/v1",
             "auth_token": "你在 OpenAI 官网的 Token",
-            "trigger_prefix": "小贺"
+            "trigger_prefix": "小余"
         },
         "image_config": {
             "openapi_url": "https://api.openai.com/v1",
             "auth_token": "你在 OpenAI 官网的 Token",
-            "trigger_prefix": "老贺"
+            "trigger_prefix": "老余"
         }
     },
     "context_config": {
