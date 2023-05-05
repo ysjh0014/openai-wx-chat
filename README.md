@@ -36,8 +36,7 @@
 - OpenAI 账号 以及生成的 `SECRET KEY` ，本文对账号注册以及 key 生成不做赘述，读者请自行搜索解决方案。
 - 一个微信账号
 
-> - 注：OpenAI 的域名 `https://api.openai.com` 在国内由于某种原因可能无法访问，读者需要自己解决 API 访问不通的问题。介绍一种简单的国内代理搭建方式，大家可以参考我的博文： [腾讯云函数1分钟搭建 OpenAI 国内代理](https://zhuanlan.zhihu.com/p/612576046)
-> - 如果你比较懒，或者注册 OpenAI 有困难，可以用国内大佬做的网站 API2D 一条龙解决 OpenAI 账户充值与反向代理问题，价格也很便宜，支持微信支付，可以使用我的推广链接注册： https://api2d.com/r/186160
+> - 注：OpenAI 的域名 `https://api.openai.com` 在国内由于某种原因可能无法访问，读者需要自己解决 API 访问不通的问题。介绍一种简单的国内代理搭建方式，大家可以参考我的博文： [腾讯云函数1分钟搭建 OpenAI 国内代理](http://8.131.78.61:1313/blog/2023/%E8%85%BE%E8%AE%AF%E4%BA%91%E5%87%BD%E6%95%B01%E5%88%86%E9%92%9F%E6%90%AD%E5%BB%BA-openai-%E5%9B%BD%E5%86%85%E4%BB%A3%E7%90%86/)
 
 ## 二、 配置
 
@@ -131,4 +130,4 @@ nohup ./openai-on-wechat &
 
 建了`QQ群`和`微信群`，大家可以进群交流:
 
-| ![qq群](docs/qq群.jpg) | ![微信群](docs/微信群.jpg)
+| ![qq群](https://my-chat-ys.oss-cn-beijing.aliyuncs.com/%E5%9B%BE%E7%89%874.jpg) | ![微信群](https://my-chat-ys.oss-cn-beijing.aliyuncs.com/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20230505133509.jpg)
